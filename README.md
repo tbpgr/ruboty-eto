@@ -2,6 +2,8 @@
 
 An Ruboty Handler + Actions to Get Eto (Japanese Zodiac) name or emoji.
 
+[![Gem Version](https://badge.fury.io/rb/ruboty-eto.svg)](http://badge.fury.io/rb/ruboty-eto)
+
 [Ruboty](https://github.com/r7kamura/ruboty) is Chat bot framework. Ruby + Bot = Ruboty
 
 ## Installation
