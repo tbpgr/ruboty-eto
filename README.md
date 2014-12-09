@@ -51,7 +51,7 @@ Or install it yourself as:
 * get eto emoji from year
 
 ~~~
->ruboty eto name 1977
+>ruboty emoji name 1977
 >:snake:
 ~~~
 
