@@ -1,6 +1,6 @@
 # Ruboty::Eto
 
-An Ruboty Handler + Actions to Get Eto (Japanese Zodiac) name or emoji.
+A Ruboty Handler + Actions to Get Eto (Japanese Zodiac) name or emoji.
 
 [![Gem Version](https://badge.fury.io/rb/ruboty-eto.svg)](http://badge.fury.io/rb/ruboty-eto)
 
